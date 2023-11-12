@@ -1,0 +1,36 @@
+.interact{
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 50px;
+    float: none;
+    border-top: #ff6666 10px solid;
+}
+body{
+    background-color: skyblue;
+}
+h1{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+input{
+    margin-bottom: 20px;
+}
+h2{
+    margin-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+button{
+    border-radius: 20px;
+    padding: 20px;
+    font-size: large;
+    background-color: #ff6666;
+    font-family: 'Courier New', Courier, monospace;
+    -webkit-text-fill-color: white;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+}
+#prompt{
+    display: inline-block;
+}
